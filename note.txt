@@ -1,8 +1,15 @@
-1. Materil UI
+1. Material UI
 2. React Hooks
 3. React Router
 4. Firebase Hosting
 5. Flexbox
 6. Responsive 
 7. Grow/Shrink Animation
-8. Date picker
+8. Date picker (npm i react-date-range)
+
+Date Range picker
+https://www.npmjs.com/package/react-date-range
+
+
+Firebase Hosting URL
+https://airbnb-react-clone-19712.web.app/
